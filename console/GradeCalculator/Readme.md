@@ -35,3 +35,6 @@ Please enter your total marks for outcome
 100  
 B Grade  
 Your GPA is: 3.0
+
+## Author
+- **Jeet Thakkar**
