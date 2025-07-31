@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/console/GradeCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/console/Library_Book_Management/pom.xml" />
       </list>
     </option>
   </component>

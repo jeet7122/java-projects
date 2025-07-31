@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/console/GradeCalculator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/console/GradeCalculator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/console/Library_Book_Management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/console/Library_Book_Management/src/main/resources" charset="UTF-8" />
   </component>
 </project>
